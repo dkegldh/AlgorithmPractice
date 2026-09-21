@@ -45,3 +45,4 @@ bin/
 .idea/
 index.html
 .claude/settings.local.json
+.claude/skills/velog/
